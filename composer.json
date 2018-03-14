@@ -5,7 +5,7 @@
         "spatie",
         "laravel-uptime-monitor"
     ],
-    "homepage": "https://github.com/LKDevelopment/laravel-uptime-monitor-api",
+    "homepage": "https://github.com/duffner/laravel-uptime-monitor-api",
     "license": "MIT",
     "authors": [
         {
